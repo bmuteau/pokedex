@@ -1,5 +1,7 @@
 # NgPokemonApp
 
+Project finished and deploy -> https://ng-pokemon-app-c6ddf.web.app
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.7.
 
 ## Development server
